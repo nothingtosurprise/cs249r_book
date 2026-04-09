@@ -1,11 +1,11 @@
 {
-  "generated": "2026-04-05T19:33:52.167418+00:00",
+  "generated": "2026-04-09T06:52:37.551464+00:00",
   "repo": "harvard-edge/cs249r_book",
   "stats": {
-    "forks": 2798,
-    "issues": 7,
-    "stars": 23395,
-    "watchers": 180
+    "forks": 2822,
+    "issues": 11,
+    "stars": 23515,
+    "watchers": 181
   },
   "total": 91,
   "contributors": [
@@ -13,7 +13,7 @@
       "login": "profvjreddi",
       "name": "Vijay Janapa Reddi",
       "avatar_url": "https://avatars.githubusercontent.com/u/6807956?v=4",
-      "contributions": 9348,
+      "contributions": 9392,
       "html_url": "https://github.com/profvjreddi"
     },
     {
@@ -367,18 +367,18 @@
       "html_url": "https://github.com/AndreaMattiaGaravagno"
     },
     {
-      "login": "octo-patch",
-      "name": "Octopus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/266937838?v=4",
-      "contributions": 2,
-      "html_url": "https://github.com/octo-patch"
-    },
-    {
       "login": "RinZ27",
       "name": "Rin",
       "avatar_url": "https://avatars.githubusercontent.com/u/222222878?v=4",
       "contributions": 2,
       "html_url": "https://github.com/RinZ27"
+    },
+    {
+      "login": "octo-patch",
+      "name": "Octopus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266937838?v=4",
+      "contributions": 2,
+      "html_url": "https://github.com/octo-patch"
     },
     {
       "login": "FinAminToastCrunch",
@@ -451,25 +451,11 @@
       "html_url": "https://github.com/eimlav"
     },
     {
-      "login": "gnodipac886",
-      "name": "gnodipac886",
-      "avatar_url": "https://avatars.githubusercontent.com/u/44887166?v=4",
+      "login": "serco425",
+      "name": "Sercan Ayg\u00fcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7710195?v=4",
       "contributions": 2,
-      "html_url": "https://github.com/gnodipac886"
-    },
-    {
-      "login": "Gjain234",
-      "name": "Gauri Jain",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25145128?v=4",
-      "contributions": 2,
-      "html_url": "https://github.com/Gjain234"
-    },
-    {
-      "login": "BunningsWarehouseOfficial",
-      "name": "Kristian Rado\u0161",
-      "avatar_url": "https://avatars.githubusercontent.com/u/49220945?v=4",
-      "contributions": 2,
-      "html_url": "https://github.com/BunningsWarehouseOfficial"
+      "html_url": "https://github.com/serco425"
     },
     {
       "login": "salmanmkc",
@@ -479,18 +465,25 @@
       "html_url": "https://github.com/salmanmkc"
     },
     {
-      "login": "serco425",
-      "name": "Sercan Ayg\u00fcn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7710195?v=4",
+      "login": "BunningsWarehouseOfficial",
+      "name": "Kristian Rado\u0161",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49220945?v=4",
       "contributions": 2,
-      "html_url": "https://github.com/serco425"
+      "html_url": "https://github.com/BunningsWarehouseOfficial"
     },
     {
-      "login": "aethernavshulkraven-allain",
-      "name": "\u0905\u0930\u0928\u0935 \u0936\u0941\u0915\u094d\u0932\u093e | Arnav Shukla",
-      "avatar_url": "https://avatars.githubusercontent.com/u/112583472?v=4",
-      "contributions": 1,
-      "html_url": "https://github.com/aethernavshulkraven-allain"
+      "login": "Gjain234",
+      "name": "Gauri Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25145128?v=4",
+      "contributions": 2,
+      "html_url": "https://github.com/Gjain234"
+    },
+    {
+      "login": "gnodipac886",
+      "name": "gnodipac886",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44887166?v=4",
+      "contributions": 2,
+      "html_url": "https://github.com/gnodipac886"
     },
     {
       "login": "Pratham-ja",
@@ -526,6 +519,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/21371353?v=4",
       "contributions": 1,
       "html_url": "https://github.com/happyappledog"
+    },
+    {
+      "login": "aethernavshulkraven-allain",
+      "name": "\u0905\u0930\u0928\u0935 \u0936\u0941\u0915\u094d\u0932\u093e | Arnav Shukla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112583472?v=4",
+      "contributions": 1,
+      "html_url": "https://github.com/aethernavshulkraven-allain"
     },
     {
       "login": "bilgeacun",
