@@ -20,7 +20,9 @@ parts/
 !book/quarto/contents/*/parts/
 sdist/
 var/
-wheels/
+# Labs ship a pinned mlsysim wheel for Pyodide; ignore other wheel drops here.
+wheels/*
+!wheels/mlsysim-0.1.0-py3-none-any.whl
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -122,7 +124,7 @@ book/tools/scripts/testing/logs/
 # StaffML paper: figure PDFs shipped from SVG / generate_figures (not the compiled paper)
 !interviews/paper/fig-*.pdf
 # Periodic Table paper: committed paper.pdf + figures (built from SVG sources via rsvg-convert)
-!periodic-table/paper/paper.pdf
+periodic-table/paper/paper.pdf
 !periodic-table/paper/figures/*.pdf
 
 # Database
